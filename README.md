@@ -4,8 +4,8 @@
 
 ### Hash
 
-- [Question 1 : Two Sum](/src/hash/TwoSum)
-- [Question 387 : First Unique Character in a String](/src/hash/FirstUniqChar)
+- [Question 1 : Two Sum](/src/Hash/TwoSum)
+- [Question 387 : First Unique Character in a String](/src/Hash/FirstUniqChar)
 
 ### Linked List Operations
 
