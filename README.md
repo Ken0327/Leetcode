@@ -4,8 +4,8 @@
 
 ### Hash
 
-- [Question 1 : Two Sum](/src/hash相关/q1_两数之和)
-- [Question 387 : First Unique Character in a String](/src/hash相关/q387_字符串中的第一个唯一字符)
+- [Question 1 : Two Sum](/src/hash/TwoSum)
+- [Question 387 : First Unique Character in a String](/src/hash/FirstUniqChar)
 
 ### Linked List Operations
 
