@@ -9,7 +9,7 @@
 
 ### Linked List Operations
 
-- [Question 2 : Add Two Numbers](/src/链表操作/q2_两数相加)
+- [Question 2 : Add Two Numbers](/src/LinkedList/AddTwoNumbers)
 - [Question 19 : Remove Nth Node From End of List](/src/链表操作/q19_删除链表的倒数第N个节点)
 - [Question 25 : Reverse Nodes in k-Group](/src/链表操作/q25_k个一组翻转链表)
 - [Question 61 : Rotate List](/src/链表操作/q61_旋转链表)
