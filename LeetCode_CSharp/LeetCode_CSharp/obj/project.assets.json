@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Leetcode\\LeetCode_CSharp\\LeetCode_CSharp\\LeetCode_CSharp.csproj",
+      "projectUniqueName": "D:\\GitHub\\Leetcode\\MyLeetcode\\LeetCode_CSharp\\LeetCode_CSharp\\LeetCode_CSharp.csproj",
       "projectName": "LeetCode_CSharp",
-      "projectPath": "D:\\GitHub\\Leetcode\\LeetCode_CSharp\\LeetCode_CSharp\\LeetCode_CSharp.csproj",
+      "projectPath": "D:\\GitHub\\Leetcode\\MyLeetcode\\LeetCode_CSharp\\LeetCode_CSharp\\LeetCode_CSharp.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Leetcode\\LeetCode_CSharp\\LeetCode_CSharp\\obj\\",
+      "outputPath": "D:\\GitHub\\Leetcode\\MyLeetcode\\LeetCode_CSharp\\LeetCode_CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
