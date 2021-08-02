@@ -47,3 +47,15 @@ public class Solution {
         return pre;
     }
 }
+
+/*
+Complexity Analysis
+
+Time complexity : O(n^2)
+The algorithm makes one traversal of the list and reverse. 
+There are (n / k)^2 + (n % k)   operations and time complexity is O(n^2).
+
+Space complexity : O(1)
+We only used constant extra space. 
+
+*/
