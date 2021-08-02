@@ -4,15 +4,15 @@
 
 ### Hash
 
-- [Question 1 : Two Sum](/src/Hash/TwoSum)
-- [Question 387 : First Unique Character in a String](/src/Hash/FirstUniqChar)
+- [Question 1 : Two Sum](/src/Hash/1_TwoSum)
+- [Question 387 : First Unique Character in a String](/src/Hash/387_FirstUniqChar)
 
 ### Linked List Operations
 
-- [Question 2 : Add Two Numbers](/src/LinkedList/AddTwoNumbers)
-- [Question 19 : Remove Nth Node From End of List](/src/LinkedList/RemoveNthFromEnd)
-- [Question 25 : Reverse Nodes in k-Group](/src/LinkedList/ReverseKGroup)
-- [Question 61 : Rotate List](/src/链表操作/q61_旋转链表)
+- [Question 2 : Add Two Numbers](/src/LinkedList/2_AddTwoNumbers)
+- [Question 19 : Remove Nth Node From End of List](/src/LinkedList/19_RemoveNthFromEnd)
+- [Question 25 : Reverse Nodes in k-Group](/src/LinkedList/25_ReverseKGroup)
+- [Question 61 : Rotate List](/src/LinkedList/61_RotateRight)
 - [Question 138 : Copy List with Random Pointer](/src/链表操作/q138_复制带随机指针的链表)
 - [Question 206 : Reverse Linked List](/src/链表操作/q206_反转链表)
 
