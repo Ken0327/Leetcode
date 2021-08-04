@@ -13,7 +13,7 @@
 - [Question 19 : Remove Nth Node From End of List](/src/LinkedList/19_RemoveNthFromEnd)
 - [Question 25 : Reverse Nodes in k-Group](/src/LinkedList/25_ReverseKGroup)
 - [Question 61 : Rotate List](/src/LinkedList/61_RotateRight)
-- [Question 138 : Copy List with Random Pointer](/src/链表操作/q138_复制带随机指针的链表)
+- [Question 138 : Copy List with Random Pointer](/src/LinkedList/138_CopyRandomList)
 - [Question 206 : Reverse Linked List](/src/链表操作/q206_反转链表)
 
 ### Two Pointers Traversal / Sliding Window
