@@ -14,7 +14,7 @@
 - [Question 25 : Reverse Nodes in k-Group](/src/LinkedList/25_ReverseKGroup)
 - [Question 61 : Rotate List](/src/LinkedList/61_RotateRight)
 - [Question 138 : Copy List with Random Pointer](/src/LinkedList/138_CopyRandomList)
-- [Question 206 : Reverse Linked List](/src/链表操作/q206_反转链表)
+- [Question 206 : Reverse Linked List](/src/LinkedList/206_ReverseList)
 
 ### Two Pointers Traversal / Sliding Window
 
