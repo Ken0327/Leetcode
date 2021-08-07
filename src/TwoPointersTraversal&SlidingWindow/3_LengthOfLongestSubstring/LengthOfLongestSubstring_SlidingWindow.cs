@@ -29,3 +29,6 @@ public class Solution {
         return maxLength;
     }
 }
+
+
+// Reference https://blog.techbridge.cc/2019/09/28/leetcode-pattern-sliding-window/
