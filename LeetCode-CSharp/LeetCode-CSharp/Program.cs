@@ -44,6 +44,15 @@ namespace LeetCode_CSharp
                     output3 = lengthOfLongestSubstring.LengthOfLongestSubstring_SlidingWindow2(input3);
                     Console.WriteLine($"Output = {output3}");
                     break;
+                case 11:
+                    var containerWithMostWater = new SlidingWindow.ContainerWithMostWater();
+                    var input11 = new int[] { 1, 8, 6, 2, 5, 4, 8, 3, 7 };
+                    Console.WriteLine($"Input = {input11}, expect output = 49");
+                    var output11 = containerWithMostWater.MaxArea_BruteForce(input11);
+                    Console.WriteLine($"Output = {output11}");
+                    output11 = containerWithMostWater.MaxArea_SlidingWindow(input11);
+                    Console.WriteLine($"Output = {output11}");
+                    break;
                 case 206:
                     var input206 = new ListNode(1);
                     input206.next = new ListNode(2);

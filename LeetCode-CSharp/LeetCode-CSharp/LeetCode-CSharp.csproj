@@ -46,6 +46,7 @@
     <Compile Include="LinkedList\ReverseList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SlidingWindow\ContainerWithMostWater.cs" />
     <Compile Include="SlidingWindow\LengthOfLongestSubstring.cs" />
   </ItemGroup>
   <ItemGroup>
