@@ -53,6 +53,24 @@ namespace LeetCode_CSharp
                     output11 = containerWithMostWater.MaxArea_SlidingWindow(input11);
                     Console.WriteLine($"Output = {output11}");
                     break;
+                case 15:
+                    var _3sum = new SlidingWindow._3Sum();
+                    var input15 = new int[] { -1, 0, 1, 2, -1, -4 };
+                    Console.WriteLine($"Input = {input15}, expect output = [[-1,-1,2],[-1,0,1]]");
+                    var output15 = _3sum.ThreeSum(input15);
+                    var ans = "[";
+                    foreach (var i in output15)
+                    {
+                        ans += "[";
+                        foreach (var j in i)
+                        {
+                            ans += j.ToString() + " ";
+                        }
+                        ans += "], ";
+                    }
+                    ans += "]";
+                    Console.WriteLine($"Output = {ans}");
+                    break;
                 case 206:
                     var input206 = new ListNode(1);
                     input206.next = new ListNode(2);
