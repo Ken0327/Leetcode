@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LeetCode_CSharp.SlidingWindow
+namespace LeetCode_CSharp.TwoPointer
 {
     class _3Sum
     {

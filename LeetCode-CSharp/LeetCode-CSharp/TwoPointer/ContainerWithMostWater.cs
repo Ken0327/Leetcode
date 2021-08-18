@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace LeetCode_CSharp.SlidingWindow
+namespace LeetCode_CSharp.TwoPointer
 {
     class ContainerWithMostWater
     {

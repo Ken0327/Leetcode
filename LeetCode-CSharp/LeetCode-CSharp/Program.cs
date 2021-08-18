@@ -34,7 +34,7 @@ namespace LeetCode_CSharp
             {
                 case 3:
                     Console.WriteLine("3. Longest Substring Without Repeating Characters");
-                    var lengthOfLongestSubstring = new SlidingWindow.LengthOfLongestSubstring();
+                    var lengthOfLongestSubstring = new TwoPointer.LengthOfLongestSubstring();
                     var input3 = "abcabcbb";
                     Console.WriteLine($"Input = {input3}, expect output = 3");
                     var output3 = lengthOfLongestSubstring.LengthOfLongestSubstring_Rude(input3);
@@ -45,7 +45,7 @@ namespace LeetCode_CSharp
                     Console.WriteLine($"Output = {output3}");
                     break;
                 case 11:
-                    var containerWithMostWater = new SlidingWindow.ContainerWithMostWater();
+                    var containerWithMostWater = new TwoPointer.ContainerWithMostWater();
                     var input11 = new int[] { 1, 8, 6, 2, 5, 4, 8, 3, 7 };
                     Console.WriteLine($"Input = {input11}, expect output = 49");
                     var output11 = containerWithMostWater.MaxArea_BruteForce(input11);
@@ -54,7 +54,7 @@ namespace LeetCode_CSharp
                     Console.WriteLine($"Output = {output11}");
                     break;
                 case 15:
-                    var _3sum = new SlidingWindow._3Sum();
+                    var _3sum = new TwoPointer._3Sum();
                     var input15 = new int[] { -1, 0, 1, 2, -1, -4 };
                     Console.WriteLine($"Input = {input15}, expect output = [[-1,-1,2],[-1,0,1]]");
                     var output15 = _3sum.ThreeSum(input15);
@@ -70,6 +70,13 @@ namespace LeetCode_CSharp
                     }
                     ans += "]";
                     Console.WriteLine($"Output = {ans}");
+                    break;
+                case 42:
+                    var TrappingRainWater = new TwoPointer.TrappingRainWater();
+                    var input42 = new int[] { 0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1 };
+                    Console.WriteLine($"Input = {input42}, expect output = 6");
+                    var output42 = TrappingRainWater.Trap(input42);
+                    Console.WriteLine($"Output = {output42}");
                     break;
                 case 206:
                     var input206 = new ListNode(1);

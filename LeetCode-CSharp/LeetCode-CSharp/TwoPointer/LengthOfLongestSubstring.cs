@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LeetCode_CSharp.SlidingWindow
+namespace LeetCode_CSharp.TwoPointer
 {
     class LengthOfLongestSubstring
     {

@@ -21,9 +21,9 @@
 - [Question 3 : Longest Substring Without Repeating Characters](/src/TwoPointersTraversal&SlidingWindow/3_LengthOfLongestSubstring)
 - [Question 11 : Container With Most Water](/src/TwoPointersTraversal&SlidingWindow/11_ContainerWithMostWater)
 - [Question 15 : 3Sum](/src/TwoPointersTraversal&SlidingWindow/15_3Sum)
-- [Question 16 : 3Sum Closest](/src/双指针遍历/q16_最接近的三数之和)
-- [Question 26 : Remove Duplicates from Sorted Array](/src/双指针遍历/q26_删除排序数组中的重复项)
-- [Question 42 : Trapping Rain Water](/src/双指针遍历/q42_接雨水)
+- [Question 16 : 3Sum Closest](/src/TwoPointersTraversal&SlidingWindow/16_3SumClosest)
+- [Question 26 : Remove Duplicates from Sorted Array](/src/TwoPointersTraversal&SlidingWindow/26_RemoveDuplicates)
+- [Question 42 : Trapping Rain Water](/src/TwoPointersTraversal&SlidingWindow/42_TrappingRainWater)
 - [Question 121 : Best Time to Buy and Sell Stock](/src/双指针遍历/q121_买卖股票的最佳时机)
 - [Question 209 : Minimum Size Subarray Sum](/src/双指针遍历/q209_长度最小的子数组)
 
