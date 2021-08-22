@@ -24,8 +24,8 @@
 - [Question 16 : 3Sum Closest](/src/TwoPointersTraversal&SlidingWindow/16_3SumClosest)
 - [Question 26 : Remove Duplicates from Sorted Array](/src/TwoPointersTraversal&SlidingWindow/26_RemoveDuplicates)
 - [Question 42 : Trapping Rain Water](/src/TwoPointersTraversal&SlidingWindow/42_TrappingRainWater)
-- [Question 121 : Best Time to Buy and Sell Stock](/src/双指针遍历/q121_买卖股票的最佳时机)
-- [Question 209 : Minimum Size Subarray Sum](/src/双指针遍历/q209_长度最小的子数组)
+- [Question 121 : Best Time to Buy and Sell Stock](/src/TwoPointersTraversal&SlidingWindow/q121_买卖股票的最佳时机)
+- [Question 209 : Minimum Size Subarray Sum](/src/TwoPointersTraversal&SlidingWindow/209_MinSubArrayLen)
 
 ### Fast and Slow Pointers Traversal
 
