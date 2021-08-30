@@ -30,7 +30,7 @@
 ### Fast and Slow Pointers Traversal
 
 - [Question 141 : Linked List Cycle](/src/FastSlowPointersTraversal/141_LinkedListCycle)
-- [Question 202 : Happy Number](/src/快慢指针遍历/q202_快乐数)
+- [Question 202 : Happy Number](/src/FastSlowPointersTraversal/202_HappyNumber)
 - [Question 876 : Middle of the Linked List](/src/快慢指针遍历/q876_链表的中间结点)
 
 ### Interval Merge
