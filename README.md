@@ -35,7 +35,7 @@
 
 ### Interval Merge
 
-- [Question 56 : Merge Intervals](/src/区间合并/q56_合并区间)
+- [Question 56 : Merge Intervals](/src/IntervalMerge/56_MergeInterval)
 
 ### String Manipulation
 
