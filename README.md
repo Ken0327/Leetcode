@@ -39,7 +39,7 @@
 
 ### String Manipulation
 
-- [Question 6 : ZigZag Conversion](/src/字符串操作/q6_Z字形变换)
+- [Question 6 : ZigZag Conversion](/src/StringManipulation/6_ZigZagConversion)
 - [Question 14 : Longest Common Prefix](/src/字符串操作/q14_最长公共前缀)
 - [Question 763 : Partition Labels](/src/字符串操作/q763_划分字母区间)
 
