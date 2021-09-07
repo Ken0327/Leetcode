@@ -40,7 +40,7 @@
 ### String Manipulation
 
 - [Question 6 : ZigZag Conversion](/src/StringManipulation/6_ZigZagConversion)
-- [Question 14 : Longest Common Prefix](/src/14_LongestCommonPrefix/LongestCommonPrefix)
+- [Question 14 : Longest Common Prefix](/src/StringManipulation/14_LongestCommonPrefix)
 - [Question 763 : Partition Labels](/src/字符串操作/q763_划分字母区间)
 
 ### Digital Operations
