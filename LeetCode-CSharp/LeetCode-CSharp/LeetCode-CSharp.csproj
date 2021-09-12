@@ -46,6 +46,7 @@
     <Compile Include="LinkedList\ReverseList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringManipulation\763_PartitionLabels.cs" />
     <Compile Include="TwoPointer\3Sum.cs" />
     <Compile Include="TwoPointer\ContainerWithMostWater.cs" />
     <Compile Include="TwoPointer\LengthOfLongestSubstring.cs" />
