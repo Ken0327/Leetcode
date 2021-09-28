@@ -44,6 +44,18 @@ namespace LeetCode_CSharp
                     output3 = lengthOfLongestSubstring.LengthOfLongestSubstring_SlidingWindow2(input3);
                     Console.WriteLine($"Output = {output3}");
                     break;
+                case 9:
+                    Console.WriteLine("9. Palindrome Number");
+                    var palindromeNumber = new DigitalOperations._9_PalindromeNumber();
+                    var input9 = 121;
+                    Console.WriteLine($"Input = {input9}, expect output = true");
+                    var output9 = palindromeNumber.IsPalindrome2(input9);
+                    Console.WriteLine($"Output = {output9}");
+                    input9 = -121;
+                    Console.WriteLine($"Input = {input9}, expect output = false");
+                    output9 = palindromeNumber.IsPalindrome2(input9);
+                    Console.WriteLine($"Output = {output9}");
+                    break;
                 case 11:
                     Console.WriteLine("11. Container With Most Water");
                     var containerWithMostWater = new TwoPointer.ContainerWithMostWater();

@@ -47,7 +47,7 @@
 
 - [Question 7 : Reverse Integer](/src/DigitalOperatios/7_ReverseInteger)
 - [Question 8 : String to Integer (atoi)](/src/DigitalOperatios/8_StringtoInteger(atoi))
-- [Question 9 : Palindrome Number](/src/数字操作/q9_回文数)
+- [Question 9 : Palindrome Number](/src/DigitalOperatios/9_PalindromeNumber)
 - [Question 43 : Multiply Strings](/src/数字操作/q43_字符串相乘)
 - [Question 172 : Factorial Trailing Zeroes](/src/数字操作/q172_阶乘后的零)
 - [Question 258 : Add Digits](/src/数字操作/q258_各位相加)
