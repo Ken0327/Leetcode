@@ -47,11 +47,11 @@ namespace LeetCode_CSharp
                 case 9:
                     Console.WriteLine("9. Palindrome Number");
                     var palindromeNumber = new DigitalOperations._9_PalindromeNumber();
-                    var input9 = 121;
+                    var input9 = 12321;
                     Console.WriteLine($"Input = {input9}, expect output = true");
                     var output9 = palindromeNumber.IsPalindrome2(input9);
                     Console.WriteLine($"Output = {output9}");
-                    input9 = -121;
+                    input9 = 1232;
                     Console.WriteLine($"Input = {input9}, expect output = false");
                     output9 = palindromeNumber.IsPalindrome2(input9);
                     Console.WriteLine($"Output = {output9}");
