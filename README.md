@@ -50,7 +50,7 @@
 - [Question 9 : Palindrome Number](/src/DigitalOperatios/9_PalindromeNumber)
 - [Question 43 : Multiply Strings](/src/数字操作/q43_字符串相乘)
 - [Question 172 : Factorial Trailing Zeroes](/src/DigitalOperatios/172_FactorialTrailingZeroes)
-- [Question 258 : Add Digits](/src/数字操作/q258_各位相加)
+- [Question 258 : Add Digits](/src/DigitalOperatios/258_AddDigits)
 
 ### Array Operations
 
