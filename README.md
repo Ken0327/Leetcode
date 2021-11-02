@@ -54,7 +54,7 @@
 
 ### Array Operations
 
-- [Question 54 : Spiral Matrix](/src/数组操作/q54_螺旋矩阵)
+- [Question 54 : Spiral Matrix](/src/ArrayOperations/54_SpiralMatrix)
 - [Question 73 : Set Matrix Zeroes](/src/数组操作/q73_矩阵置零)
 - [Question 78 : Subsets](/src/数组操作/q78_子集)
 - [Question 384 : Shuffle an Array](/src/数组操作/q384_打乱数组)
