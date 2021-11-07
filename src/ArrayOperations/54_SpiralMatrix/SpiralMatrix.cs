@@ -1,4 +1,6 @@
 // 方向变量模拟路径 o(n)
+// Runtime: 116 ms, faster than 97.39% of C# online submissions for Spiral Matrix.
+// Memory Usage: 40.3 MB, less than 10.36% of C# online submissions for Spiral Matrix.
 
 public class Solution {
     public IList<int> SpiralOrder(int[][] matrix) 
@@ -42,7 +44,7 @@ public class Solution {
                     }
                     break;
                 case 3:
-                    if (i == 0 || visited[i, j - 1]){
+                    if (j == 0 || visited[i, j - 1]){
                         i--;
                         direction = 4;
                     } else{
@@ -50,9 +52,9 @@ public class Solution {
                     }
                     break;
                 case 4:
-                    if (j == 0 || visited[i - 1, j]){
+                    if (i == 0 || visited[i - 1, j]){
                         j++;
-                        direction = 4;
+                        direction = 1;
                     } else{
                         i--;
                     }

@@ -44,18 +44,6 @@ namespace LeetCode_CSharp
                     output3 = lengthOfLongestSubstring.LengthOfLongestSubstring_SlidingWindow2(input3);
                     Console.WriteLine($"Output = {output3}");
                     break;
-                case 9:
-                    Console.WriteLine("9. Palindrome Number");
-                    var palindromeNumber = new DigitalOperations._9_PalindromeNumber();
-                    var input9 = 12321;
-                    Console.WriteLine($"Input = {input9}, expect output = true");
-                    var output9 = palindromeNumber.IsPalindrome2(input9);
-                    Console.WriteLine($"Output = {output9}");
-                    input9 = 1232;
-                    Console.WriteLine($"Input = {input9}, expect output = false");
-                    output9 = palindromeNumber.IsPalindrome2(input9);
-                    Console.WriteLine($"Output = {output9}");
-                    break;
                 case 11:
                     Console.WriteLine("11. Container With Most Water");
                     var containerWithMostWater = new TwoPointer.ContainerWithMostWater();
@@ -82,6 +70,14 @@ namespace LeetCode_CSharp
                     Console.WriteLine($"Input = {input42}, expect output = 6");
                     var output42 = TrappingRainWater.Trap(input42);
                     Console.WriteLine($"Output = {output42}");
+                    break;
+                case 54:
+                    Console.WriteLine("54. Spiral Matrix");
+                    var SpiralMatrix = new ArrayOperations._54_SpiralMatrix();
+                    var input54 = new int[,] { { 1, 2, 3, 4 }, { 5, 6, 7, 8 }, { 9, 10, 11, 12 }, { 13, 14, 15, 16} };
+                    Console.WriteLine($"Input = {input54}, expect output = [1,2,3,4,8,12,16,15,14,13,9,5,6,7,11,10]");
+                    var output54 = SpiralMatrix.SpiralOrder(input54);
+                    Console.WriteLine($"Output = {printIntList(output54)}");
                     break;
                 case 206:
                     Console.WriteLine("206. Reverse List");
