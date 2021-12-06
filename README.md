@@ -57,7 +57,7 @@
 - [Question 54 : Spiral Matrix](/src/ArrayOperations/54_SpiralMatrix)
 - [Question 73 : Set Matrix Zeroes](/src/ArrayOperations/73_SetMatrixZeros)
 - [Question 78 : Subsets](/src/ArrayOperations/78_Subsets)
-- [Question 384 : Shuffle an Array](/src/数组操作/q384_打乱数组)
+- [Question 384 : Shuffle an Array](/src/ArrayOperations/384_ShuffleArray)
 - [Question 581 : Shortest Unsorted Continuous Subarray](/src/数组操作/q581_最短无序连续子数组)
 - [Question 945 : Minimum Increment to Make Array Unique](/src/数组操作/q945_使数组唯一的最小增量)
 

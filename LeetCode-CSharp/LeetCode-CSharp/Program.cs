@@ -88,6 +88,18 @@ namespace LeetCode_CSharp
                     var output206 = reverseList.reverseList(input206);
                     Console.WriteLine($"Output = {output206}");
                     break;
+                case 384:
+                    Console.WriteLine("384. Shuffle an Array");
+                    var shuffleArray = new ArrayOperations._384_ShuffleArray(new int[] { 1, 2, 3 });
+                    var output304 = new List<int[]>();
+                    output304.Add(shuffleArray.Shuffle());
+                    output304.Add(shuffleArray.Reset());
+                    output304.Add(shuffleArray.Shuffle());
+                    foreach (var i in output304)
+                    {
+                        Console.WriteLine($"Output = {printIntList(i)}");
+                    }
+                    break;
                 case 763:
                     Console.WriteLine("763. Partition Labels");
                     var input763 = "ababcbacadefegdehijhklij";

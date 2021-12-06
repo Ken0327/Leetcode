@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayOperations\384_ShuffleArray.cs" />
     <Compile Include="ArrayOperations\54_SpiralMatrix.cs" />
     <Compile Include="DigitalOperations\9_PalindromeNumber.cs" />
     <Compile Include="LinkedList\ListNode.cs" />
