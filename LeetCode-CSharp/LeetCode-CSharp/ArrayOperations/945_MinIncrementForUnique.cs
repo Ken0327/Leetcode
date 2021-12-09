@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace LeetCode_CSharp.ArrayOperations
 {
-    class _954_MinIncrementForUnique
+    class _945_MinIncrementForUnique
     {
         public int MinIncrementForUnique(int[] nums)
         {
