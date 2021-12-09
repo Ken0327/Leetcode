@@ -107,6 +107,14 @@ namespace LeetCode_CSharp
                     var output763 = PartitionLabel.PartitionLabel(input763);
                     Console.WriteLine($"Output = {printIntList(output763)}");
                     break;
+                case 954:
+                    Console.WriteLine("945. Minimum Increment to Make Array Unique");
+                    var MinIncrementForUnique = new ArrayOperations._954_MinIncrementForUnique();
+                    var output954 = MinIncrementForUnique.MinIncrementForUnique(new int[] { 3, 2, 1, 2, 1, 7 });
+                    var output954_ = MinIncrementForUnique.MinIncrementForUnique1(new int[] { 1, 1, 1, 1, 3, 5 });
+                    Console.WriteLine($"Output = {output954}");
+                    Console.WriteLine($"Output = {output954_}");
+                    break;
                 default:
                     break;
             }
