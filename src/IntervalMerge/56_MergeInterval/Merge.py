@@ -50,6 +50,10 @@ class Solution1:
 
         return merged
 
+        # Negative numbers mean that you count from the right instead of the left.
+        # list[-1] refers to the last element
+        # list[-2] is the second-last, and so on.
+
 if __name__ == '__main__':
     print(Solution().merge([[1,3],[1,6],[8,10],[15,18]]))
     print(Solution1().merge1([[1,3],[1,6],[2,5],[2,7],[8,10],[15,18]]))
