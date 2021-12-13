@@ -64,7 +64,7 @@
 ### Stack
 
 - [Question 20 : Valid Parentheses](/src/Stack/20_ValidParentheses)
-- [Question 32 : Longest Valid Parentheses](/src/栈相关/q32_最长有效括号)
+- [Question 32 : Longest Valid Parentheses](/src/Stack/32_LongestValidParentheses)
 - [Question 155 : Min Stack](/src/栈相关/q155_最小栈)
 - [Question 224 : Basic Calculator](/src/栈相关/q224_基本计算器)
 - [Question 232 : Implement Queue using Stacks](/src/栈相关/q232_用栈实现队列)
